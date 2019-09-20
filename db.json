@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "departments": [
     { "id": 1, "title": "PHP Developer","designation_1":"Senior PHP Developer","designation_2":"PHP Developer","designation_3":"Junior PHP Developer","designation_4":"Fresher PHP Developer","designation_5":"Intern PHP Developer"},
     { "id": 2, "title": "Android Developer","designation_1":"Senior Android Developer","designation_2":"Android Developer","designation_3":"Junior Android Developer","designation_4":"Fresher Android Developer","designation_5":"Intern Android Developer"},
     { "id": 3, "title": "iOS Developer","designation_1":"iOS PHP Developer","designation_2":"iOS Developer","designation_3":"Junior iOS Developer","designation_4":"Fresher iOS Developer","designation_5":"Intern iOS Developer"},
